@@ -23,7 +23,7 @@ This repository contains a simple Python script that uses Gradio to build a web 
 **Instructions:**
 
 1. Clone the repository:
-``git clone https://github.com/GurucharanSavanth/Landmark_Detection_Asia_Pecific.git``
+``git clone https://github.com/abhipka27/LANDMARK-DETECTION-AND-PREDICTION.git``
 
 2. Install the required dependencies:
  ``pip install -r requirements.txt``
